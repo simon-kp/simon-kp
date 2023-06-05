@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simon-kp
-- 👀 I’m interested in Python Programming and Web Developement
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on <NOT yet thought>
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Python,Kotlin,WEbDev,Cloud
 - 📫 How to reach me instagram: @simon_kp
 
 <!---
